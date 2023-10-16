@@ -4,11 +4,11 @@ Este projeto foi criado como parte de um desafio que envolveu a pesquisa e a com
 
 ## Sobre o Padrão de Projeto Prototype
 
-O padrão de projeto Prototype é um dos padrões de criação em Java. Ele permite a criação de novos objetos por clonagem de outros objetos existentes, evitando assim a necessidade de recriar objetos complexos de forma manual. Este projeto apresenta a implementação prática desse padrão, demonstrando como criar e clonar objetos de diferentes formas geométricas, como círculos e quadrados.
+O padrão de projeto Prototype é um dos padrões de criação em Java. Ele permite a criação de novos objetos por clonagem de outros objetos existentes, evitando assim a necessidade de recriar objetos complexos de forma manual. Este projeto apresenta a implementação prática desse padrão, demonstrando como criar e clonar objetos de diferentes formas geométricas, como círculos, quadrados e triangulos.
 
 ## Funcionalidades do Projeto
 
-O projeto consiste em classes que representam diferentes formas geométricas, como círculos e quadrados, e uma classe `ShapeCache` que armazena objetos dessas formas. A implementação demonstra como o padrão Prototype pode ser usado para clonar objetos de forma eficiente, evitando a necessidade de criar novos objetos a partir do zero.
+O projeto consiste em classes que representam diferentes formas geométricas, como círculos, quadrados e triangulos, e uma classe `ShapeCache` que armazena objetos dessas formas. A implementação demonstra como o padrão Prototype pode ser usado para clonar objetos de forma eficiente, evitando a necessidade de criar novos objetos a partir do zero.
 
 ## Como Usar o Projeto
 
